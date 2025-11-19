@@ -70,13 +70,7 @@
 
 ---
 
-## 🔨 Recent Activity
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=iamganguly-2002&theme=github" alt="Indranil Ganguly GitHub Activity Graph" />
-</div>
-
----
 
 
 
