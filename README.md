@@ -32,7 +32,7 @@
 
 **Find Me Here:**
 
-[![GitHub Followers](https://img.shields.io/github/followers/[iamganguly-2002]?label=Follow&style=for-the-badge&logo=github&color=303030)](https://github.com/[YOUR_USERNAME])
+[![GitHub Followers](https://img.shields.io/github/followers/iamganguly-2002?label=Follow&style=for-the-badge&logo=github&color=303030)](https://github.com/iamganguly-2002)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indranilganguly54@gmail.com)
 
 
@@ -51,11 +51,11 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[iamganguly-2002]&show_icons=true&theme=dark&rank_icon=github&hide_border=true&bg_color=00000000" alt="Indranil Ganguly GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamganguly-2002&show_icons=true&theme=dark&rank_icon=github&hide_border=true&bg_color=00000000" alt="Indranil Ganguly GitHub Stats" />
   
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[iamganguly-2002]&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=8" alt="Indranil Ganguly Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamganguly-2002&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=8" alt="Indranil Ganguly Top Languages" />
 </p>
 
 </div>
@@ -65,7 +65,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[iamganguly-2002]&theme=dark&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamganguly-2002&theme=dark&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -73,7 +73,7 @@
 ## 🔨 Recent Activity
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=[iamganguly-2002]&theme=github" alt="Indranil Ganguly GitHub Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=iamganguly-2002&theme=github" alt="Indranil Ganguly GitHub Activity Graph" />
 </div>
 
 ---
