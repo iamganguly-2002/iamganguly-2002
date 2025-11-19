@@ -51,11 +51,11 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark&rank_icon=github&hide_border=true&bg_color=00000000" alt="Indranil Ganguly GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[iamganguly-2002]&show_icons=true&theme=dark&rank_icon=github&hide_border=true&bg_color=00000000" alt="Indranil Ganguly GitHub Stats" />
   
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=8" alt="Indranil Ganguly Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[iamganguly-2002]&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=8" alt="Indranil Ganguly Top Languages" />
 </p>
 
 </div>
