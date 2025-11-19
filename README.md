@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Indranil Ganguly's Profile Picture" width="150" height="150" style="border-radius: 50%;">
+  <img src="image.png" alt="Indranil Ganguly's Profile Picture" width="150" height="150" style="border-radius: 50%;">
 
   # Hey there 👋, I'm Indranil Ganguly
 
