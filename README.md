@@ -65,7 +65,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=dark&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[iamganguly-2002]&theme=dark&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -73,7 +73,7 @@
 ## 🔨 Recent Activity
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=[YOUR_USERNAME]&theme=github" alt="Indranil Ganguly GitHub Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=[iamganguly-2002]&theme=github" alt="Indranil Ganguly GitHub Activity Graph" />
 </div>
 
 ---
@@ -82,13 +82,3 @@
 
 ***
 
-## ⚠️ Important Instructions for Setup
-
-1.  **Replace all instances of `[YOUR_USERNAME]`** with your actual GitHub username.
-2.  **Replace the links** for **Gmail**, **Kaggle**, and **Stack Overflow** with your respective profiles.
-3.  **Update the avatar URL** (`https://avatars.githubusercontent.com/u/12345678?v=4`) with the direct image URL of your current GitHub profile picture for the circular image header.
-4.  **Create the special repository** named exactly after your username to host this file.
-
-Once you replace the placeholders and save this content as `README.md` in that special repository, your GitHub profile will reflect this new look!
-
-Let me know if you need any adjustments to the sections or different badges!
